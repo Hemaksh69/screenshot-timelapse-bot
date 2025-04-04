@@ -15,7 +15,7 @@ This is a Python bot that captures periodic screenshots and stitches them into a
 - **OpenCV (cv2)** – for video generation
 
 - ## 👤 Author
-[Hemaksh69](https://github.com/Heamksh69)
+[Hemaksh69](https://github.com/Hemaksh69)
 
 ## 🚀 Installation & Setup
 ### **Prerequisites**
