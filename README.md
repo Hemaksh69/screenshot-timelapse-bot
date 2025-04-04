@@ -12,7 +12,10 @@ This is a Python bot that captures periodic screenshots and stitches them into a
 - **pyautogui** – for taking screenshots  
 - **os** – for file handling  
 - **time** – for scheduling  
-- **OpenCV (cv2)** – for video generation  
+- **OpenCV (cv2)** – for video generation
+
+- ## 👤 Author
+[Hemaksh69](https://github.com/Heamksh69)
 
 ## 🚀 Installation & Setup
 ### **Prerequisites**
@@ -22,6 +25,5 @@ This is a Python bot that captures periodic screenshots and stitches them into a
 ```bash
 pip install pyautogui opencv-python
 
-## 👤 Author
-[Hemaksh69](https://github.com/Heamksh69)
+
 
