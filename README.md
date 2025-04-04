@@ -21,3 +21,7 @@ This is a Python bot that captures periodic screenshots and stitches them into a
 
 ```bash
 pip install pyautogui opencv-python
+
+## 👤 Author
+[Hemaksh69](https://github.com/Heamksh69)
+
