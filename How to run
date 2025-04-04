@@ -1,0 +1,6 @@
+## 1.Clone this repository:
+git clone https://github.com/your-username/screenshot-timelapse-bot.git
+cd screenshot-timelapse-bot
+
+## 2.Run the script:
+ python timelapse_bot.py
