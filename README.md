@@ -74,18 +74,15 @@
 <summary>🔧 Technologies Used</summary>
 
 <br>
-┌─────────────────────────────────────────┐
-│ │
-│ 🐍 Python 3.7+ Core Language │
-│ 📸 pyautogui Screenshot Capture │
-│ 🎥 OpenCV (cv2) Video Processing │
-│ 📁 os File Management │
-│ ⏰ time Scheduling & Timing │
-│ 🖼️ Pillow Image Processing │
-│ │
-└─────────────────────────────────────────┘
 
-text
+| Technology | Purpose | Version |
+|------------|---------|---------|
+| 🐍 **Python** | Core Language | 3.7+ |
+| 📸 **PyAutoGUI** | Screenshot Capture | Latest |
+| 🎥 **OpenCV** | Video Processing | 4.5+ |
+| 🖼️ **Pillow** | Image Processing | 8.0+ |
+| 📁 **os** | File Management | Built-in |
+| ⏰ **time** | Scheduling & Timing | Built-in |
 
 
 </details>
