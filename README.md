@@ -26,15 +26,6 @@
 - [Overview](#-overview)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Installation & Setup](#-installation--setup)
-- [Usage](#-usage)
-- [How It Works](#-how-it-works)
-- [Configuration](#-configuration)
-- [File Structure](#-file-structure)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [Author](#-author)
-- [License](#-license)
 
 </details>
 
