@@ -1,29 +1,70 @@
-# 📸 Screenshot Timelapse Bot
+<div align="center">
 
-This is a Python bot that captures periodic screenshots and stitches them into a timelapse video using OpenCV.
+# ❄️ Screen Timelapse Creator
 
-## 🎯 Features
-✅ Takes screenshots every 5 seconds  
-✅ Saves them with timestamps  
-✅ Creates a timelapse video automatically  
+### 📸 Automated Screenshot Capture & Video Compilation Tool
 
-## 🛠 Tech Stack
-- **Python** 🐍
-- **pyautogui** – for taking screenshots  
-- **os** – for file handling  
-- **time** – for scheduling  
-- **OpenCV (cv2)** – for video generation
+![Python](https://img.shields.io/badge/Python-3.7+-E92063?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-E92063?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS%20|%20Linux-E92063?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-E92063?style=flat-square)
 
-- ## 👤 Author
-[Hemaksh69](https://github.com/Hemaksh69)
+</div>
 
-## 🚀 Installation & Setup
-### **Prerequisites**
-- Install [Python 3.x](https://www.python.org/downloads/)
-- Install required dependencies:
+---
+
+## 📋 Table of Contents
+
+<details>
+<summary>🔍 Click to expand navigation</summary>
+
+- [Overview](#-overview)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [How It Works](#-how-it-works)
+- [Configuration](#-configuration)
+- [Requirements](#-requirements)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+</details>
+
+---
+
+## 🌈 Overview
+
+**Screen Timelapse Creator** is a lightweight Python automation tool that captures periodic screenshots of your screen and compiles them into a smooth timelapse video. Perfect for documenting your workflow, tracking productivity, or creating tutorial content!
+
+---
+
+## ✨ Features
+
+<details>
+<summary>🎯 Core Features</summary>
+
+- 🖼️ **Automated Screenshot Capture** - Takes screenshots at regular intervals
+- 🎥 **Video Compilation** - Converts screenshots into timelapse video
+- 📁 **Smart Organization** - Auto-creates directories and timestamps files
+- 🔄 **Error Handling** - Robust error checking and logging
+- 💾 **PNG Format** - High-quality lossless screenshots
+- 🎬 **XVID Codec** - Compressed video output
+
+</details>
+
+---
+
+## 🚀 Installation
+
+<details>
+<summary>📦 Installation Steps</summary>
+
+### 1️⃣ Clone the Repository
 
 ```bash
-pip install pyautogui opencv-python
+git clone https://github.com/yourusername/screen-timelapse-creator.git
+cd screen-timelapse-creator
 
 
 
